@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'https://www.facebook.com/GRMchapterSoonerECHO/'
-datePublished: '2015-12-24T21:33:52.667Z'
-dateModified: '2015-12-24T21:33:16.947Z'
+datePublished: '2015-12-24T21:37:53.957Z'
+dateModified: '2015-12-24T21:37:37.839Z'
 title: Chapter Facebook page
 author: []
 sourcePath: _posts/2015-12-24-chapter-facebook-page.md
