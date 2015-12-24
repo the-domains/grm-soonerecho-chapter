@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-24T21:21:55.378Z'
-dateModified: '2015-12-24T21:21:33.630Z'
+description: 'https://www.facebook.com/GRMchapterSoonerECHO/'
+datePublished: '2015-12-24T21:33:52.667Z'
+dateModified: '2015-12-24T21:33:16.947Z'
 title: Chapter Facebook page
 author: []
+sourcePath: _posts/2015-12-24-chapter-facebook-page.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-24-chapter-facebook-page.md
-published: true
 url: chapter-facebook-page/index.html
 _type: Article
 
