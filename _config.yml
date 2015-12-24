@@ -1,0 +1,28 @@
+name: 'GRM SoonerECHO chapter '
+favicon: null
+layout_spectrum: 0.9398975425865501
+typography_spectrum: 0.9904813785105944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2759745945222676
+  lightness: 0.0843763523735106
+  saturation: 0.6940320425201207
+  rhythmicContrast: 0.047630531480535865
+purpose: []
