@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Serving Oklahoma City and Beyond]]></title>
-        <description><![CDATA[Serving Oklahoma City and Beyond]]></description>
+        <title><![CDATA[Oklahoma Chapter of the GRM]]></title>
+        <description><![CDATA[Oklahoma Chapter of the GRM]]></description>
         <link>https://thegrid.ai/grm-soonerecho-chapter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 20:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 21:01:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grm-soonerecho-chapter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/grm-soonerecho-chapter/6b9f5562-ec31-4142-a02f-4ced69b6d7cd/index.html</link>
+            <guid isPermaLink="false">6b9f5562-ec31-4142-a02f-4ced69b6d7cd</guid>
+            <pubDate>Thu, 24 Dec 2015 21:00:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Wellness Journey ]]></title>
             <description><![CDATA[<article><h1>A Wellness Journey </h1><p>Local Classes</p></article>]]></description>
