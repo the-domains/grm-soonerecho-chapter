@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://saltrevolution.com/lets-talk-toxic-food-additives-expert-anthony-alayon/'
 title: "Let's talk toxic food additives with expert Anthony Alayon"
-datePublished: '2015-12-25T00:27:33.654Z'
-dateModified: '2015-12-25T00:25:30.979Z'
+datePublished: '2015-12-25T01:02:57.911Z'
+dateModified: '2015-12-25T00:27:33.654Z'
 sourcePath: _posts/2015-12-25-lets-talk-toxic-food-additives-with-expert-anthony-alayon.md
 published: true
 inFeed: true
