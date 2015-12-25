@@ -1,7 +1,7 @@
 name: 'GRM SoonerECHO chapter '
 favicon: null
-layout_spectrum: 0.9398975425865501
-typography_spectrum: 0.9904813785105944
+layout_spectrum: 0.74854
+typography_spectrum: 0.80928
 title: Oklahoma Chapter of the GRM
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#eba100'
     - '#c900f6'
   brandStrength: 0.8125
-  lightness: 0.0843763523735106
+  lightness: 0.3125
   saturation: 0.6940320425201207
   rhythmicContrast: 0.047630531480535865
 purpose: []
