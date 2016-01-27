@@ -4,8 +4,14 @@
         <description><![CDATA[Oklahoma Chapter of the GRM]]></description>
         <link>https://thegrid.ai/grm-soonerecho-chapter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 17:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 04:48:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/grm-soonerecho-chapter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/grm-soonerecho-chapter/d6ac10ac-18e6-473a-88b1-b7b174dfdd52/index.html</link>
+            <guid isPermaLink="false">d6ac10ac-18e6-473a-88b1-b7b174dfdd52</guid>
+            <pubDate>Wed, 27 Jan 2016 04:47:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Great article by Larry Law from Angie's Option Inc. "The Scoop on Poop"</p>]]></description>
@@ -68,13 +74,6 @@
             <link>http://www.angiesoption.com/class-schedule/</link>
             <guid isPermaLink="false">7cdf16b9-334e-4d55-b2c0-0e113d37cca8</guid>
             <pubDate>Thu, 24 Dec 2015 23:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>You can like us on</p>]]></description>
-            <link>https://thegrid.ai/grm-soonerecho-chapter/e8799d11-5237-4373-a0d9-021084db7f64/index.html</link>
-            <guid isPermaLink="false">e8799d11-5237-4373-a0d9-021084db7f64</guid>
-            <pubDate>Thu, 24 Dec 2015 21:41:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
