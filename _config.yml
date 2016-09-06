@@ -1,20 +1,4 @@
-name: 'GRM SoonerECHO chapter '
-favicon: null
-layout_spectrum: 0.60829
 typography_spectrum: 0.80928
-title: Oklahoma Chapter of the GRM
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.125
   saturation: 0.625
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.60829
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'GRM SoonerECHO chapter '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Oklahoma Chapter of the GRM
+description: Changing Habits one Class at a Time
 purpose: []
